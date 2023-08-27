@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ Piscine 2021
+├─◈ [Piscine 2021](https://github.com/akarichan00/Piscine-2021.git)
 │
 └───────────────────────────────▰▰▰
 
